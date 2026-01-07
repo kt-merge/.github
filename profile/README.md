@@ -44,11 +44,11 @@
 | DB                  | PostgreSQL, Redis(NoSQL)                                   |
 | Server / Deployment | AWS EC2, Route53 / Caddy, CI/CD(Github Actions)           |
 
-### 시스템 아키텍처
-
+## 🧵 시스템 아키텍처
+![system_architecture](system_architecture.drawio.png)
 ---
 
-## 🪜 개발 목표
+##  개발 목표
 
 - UI/UX 설계 및 반응형 구현
 - RESTful API 설계 및 DB 구축
