@@ -44,6 +44,8 @@
 | DB                  | PostgreSQL, Redis(NoSQL)                                   |
 | Server / Deployment | AWS EC2, Route53 / Caddy, CI/CD(Github Actions)           |
 
+### 시스템 아키텍처
+
 ---
 
 ## 🪜 개발 목표
