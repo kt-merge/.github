@@ -17,7 +17,7 @@
 | 개발 기간  | 2025.10.31 ~ 2026.01.07                              |
 | 목표       | 프론트엔드 + 백엔드 통합 전자상거래 프로토타입 완성 |
 | 팀명       | Darius Team                                         |
-| 배포 주소  | (추후 추가)                                         |
+| 배포 주소  | https://bcm.u-jinlee1029.store/                                         |
 
 ---
 
@@ -27,6 +27,7 @@
 
 - 반응형 웹 디자인 (PC / 모바일)
 - RESTful API 설계 및 구현
+- Admin 페이지
 - 상품 등록 / 수정 / 삭제 / 조회 (CRUD)
 - 사용자 회원가입 및 로그인 (NextAuth)
 - 데이터베이스 연동
@@ -41,7 +42,7 @@
 | Frontend            | Next.js, TypeScript, Tailwind CSS, shadcn/ui, Axios        |
 | Backend             | Spring Boot, STOMP (WebSocket), JPA (Java Persistence API) |
 | DB                  | PostgreSQL, Redis(NoSQL)                                   |
-| Server / Deployment | AWS EC2, Route53 / Caddy, CI/CD(Cronjob/Systemd)           |
+| Server / Deployment | AWS EC2, Route53 / Caddy, CI/CD(Github Actions)           |
 
 ---
 
@@ -60,7 +61,7 @@
 | 항목         | 설명                                                                                  |
 | ------------ | ------------------------------------------------------------------------------------- |
 | README       | 프로젝트 개요 및 실행 방법                                                            |
-| API 문서     | http://www.ktdarius.shop:8080/swagger-ui/index.html#/product-controller/createProduct |
+| API 문서     | https://bcm.u-jinlee1029.store/swagger-ui/index.html |
 | ERD          | https://www.erdcloud.com/                                                             |
 | 와이어프레임 | v0.dev 디자인 시안 https://v0.app/chat/blind-chicken-market-spaJeozaobA               |
 | 시연 영상    | (추후 추가)                                                                           |
